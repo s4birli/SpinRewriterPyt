@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    "terminal.integrated.shell.*": "",
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.automationShell.osx": ""
+}

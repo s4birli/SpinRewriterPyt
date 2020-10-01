@@ -1,5 +1,5 @@
 ====================================
-Python bindings for SpinRewriter API
+Python bindings for SpinRewriterPyt API
 ====================================
 
 `Spin Rewriter <http://www.spinrewriter.com/bigcontentsearch>`_ is an online
@@ -9,9 +9,7 @@ of existing text. This package provides a way to easily interact with
 account, `get one here <http://www.spinrewriter.com/registration>`_.
 
 * `Source code @ GitHub <https://github.com/s4birli/spinrewriter>`_
-* `Releases @ PyPI <http://pypi.python.org/pypi/spinrewriter#downloads>`_
-* `Documentation @ ReadTheDocs <http://readthedocs.org/docs/spinrewriter>`_
-* `Continuous Integration @ Travis-CI <http://travis-ci.org/niteoweb/spinrewriter>`_
+* `Releases @ PyPI <https://pypi.org/project/SpinRewritterPyt#downloads>`_
 
 
 Install

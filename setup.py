@@ -26,7 +26,7 @@ setup(
     keywords='API spinner SpinRewriter',
     author='Moon Faced Ltd.',
     author_email='info@moonfaced.co.uk',
-    url='https: // github.com/s4birli/SpinRewriterPyt,
+    url='https://github.com/s4birli/SpinRewriterPyt',
     license='BSD',
     packages=find_packages('SpinRewriterPyt'),
     package_dir={'': 'SpinRewriterPyt'},

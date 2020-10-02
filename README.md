@@ -8,7 +8,7 @@ of existing text. This package provides a way to easily interact with
 `SpinRewriter API <http://www.spinrewriter.com/api>`_. Usage requires an
 account, `get one here <http://www.spinrewriter.com/registration>`_.
 
-* `Source code @ GitHub <https://github.com/s4birli/spinrewriter>`_
+* `Source code @ GitHub <https://github.com/s4birli/SpinRewriterPyt>`_
 * `Releases @ PyPI <https://pypi.org/project/SpinRewritterPyt#downloads>`_
 
 
@@ -26,10 +26,10 @@ Usage
 
 After installing it, this is how you use it::
 
-    Initialize SpinRewriter.
+    Initialize SpinRewriterPyt.
     >>> text = u"This is the text we want to spin."
-    >>> from spinrewriter import SpinRewriter
-    >>> rewriter = SpinRewriter('username', 'api_key')
+    >>> from SpinRewriterPyt import SpinRewriterPyt
+    >>> rewriter = SpinRewriterPyt('username', 'api_key')
 
     Request processed spun text with spintax.
     >>> rewriter.text_with_spintax(text)
